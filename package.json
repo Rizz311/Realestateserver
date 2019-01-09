@@ -1,0 +1,19 @@
+{
+  "name": "olivero-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "ical-generator": "^1.4.3",
+    "moment": "^2.23.0",
+    "nodemailer": "^5.0.0",
+    "sqlite3": "^4.0.4"
+  }
+}
